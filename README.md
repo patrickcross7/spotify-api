@@ -1,0 +1,1 @@
+Project that messes around with the Spotify API and finds the Top 10 current songs for any artist that you like
